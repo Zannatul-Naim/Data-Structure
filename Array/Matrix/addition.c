@@ -2,8 +2,8 @@
 #include<stdlib.h>
 
 int main() {
-    freopen("input.txt", "r", stdin);
-    freopen("output.txt", "w", stdout);
+//     freopen("input.txt", "r", stdin);
+//     freopen("output.txt", "w", stdout);
     int row1, col1, row2, col2;
     printf("Enter Row number of first matrix: ");
     scanf("%d", &row1);
