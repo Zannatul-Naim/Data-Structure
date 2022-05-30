@@ -10,3 +10,5 @@
 - [Find Duplicate value](https://github.com/Zannatul-Naim/Data-Structure/blob/main/Array/duplicate.c)
 - [Insert an element to a sorted array](https://github.com/Zannatul-Naim/Data-Structure/blob/main/Array/insert_1.c)
 - [Insert an element to a unsorted array in any position](https://github.com/Zannatul-Naim/Data-Structure/blob/main/Array/insert_2.c)
+- [Delete an existing element from an array](https://github.com/Zannatul-Naim/Data-Structure/blob/main/Array/delete.c)
+- [Delete middle value of an array](https://github.com/Zannatul-Naim/Data-Structure/blob/main/Array/delete_mid.c)
