@@ -6,4 +6,5 @@
 ### Array
 
 - [Traversing](https://github.com/Zannatul-Naim/Data-Structure/blob/main/Array/traversing.c)
-- 
+- [Second Largest Element](https://github.com/Zannatul-Naim/Data-Structure/blob/main/Array/traversing.c)
+- [Find Duplicate value](https://github.com/Zannatul-Naim/Data-Structure/blob/main/Array/duplicate.c)
