@@ -27,6 +27,7 @@
 - [Insert at first](https://github.com/Zannatul-Naim/Data-Structure/blob/main/Linked%20List/insertFirst.c)
 - [Insert at Kth position](https://github.com/Zannatul-Naim/Data-Structure/blob/main/Linked%20List/insert_kth_position.c)
 - [Deleting last element](https://github.com/Zannatul-Naim/Data-Structure/blob/main/Linked%20List/deleteLast.c)
+- [Deleting first element](https://github.com/Zannatul-Naim/Data-Structure/blob/main/Linked%20List/deleteFirst.c)
 
 
 
