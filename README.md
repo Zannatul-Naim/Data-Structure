@@ -21,3 +21,9 @@
 - [Inserting at last](https://github.com/Zannatul-Naim/Data-Structure/blob/main/Linked%20List/append.c)
 - [Insert at first](https://github.com/Zannatul-Naim/Data-Structure/blob/main/Linked%20List/insertFirst.c)
 - [Deleting last element](https://github.com/Zannatul-Naim/Data-Structure/blob/main/Linked%20List/deleteLast.c)
+
+
+
+### Stack
+
+- [Basic stack operations program](https://github.com/Zannatul-Naim/Data-Structure/blob/main/Stack/stack.c) implemented using array in C
