@@ -16,6 +16,7 @@
 - [Merge two sorted Array](https://github.com/Zannatul-Naim/Data-Structure/blob/main/Array/merge_2.c)
 - [Sorting an array using Bubble Sort](https://github.com/Zannatul-Naim/Data-Structure/blob/main/Array/bubble_sort.c)
 - [Searching an element Using Binary Search](https://github.com/Zannatul-Naim/Data-Structure/blob/main/Array/binary_search.c)
+- [Copy 2D array to 1D array](https://github.com/Zannatul-Naim/Data-Structure/blob/main/Array/2D_to_1D.c)
 
 
 
