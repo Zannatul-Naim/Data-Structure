@@ -12,3 +12,12 @@
 - [Insert an element to a unsorted array in any position](https://github.com/Zannatul-Naim/Data-Structure/blob/main/Array/insert_2.c)
 - [Delete an existing element from an array](https://github.com/Zannatul-Naim/Data-Structure/blob/main/Array/delete.c)
 - [Delete middle value of an array](https://github.com/Zannatul-Naim/Data-Structure/blob/main/Array/delete_mid.c)
+
+
+
+### Linked List
+
+- [Linked List traversing](https://github.com/Zannatul-Naim/Data-Structure/blob/main/Linked%20List/traversing.c)
+- [Inserting at last](https://github.com/Zannatul-Naim/Data-Structure/blob/main/Linked%20List/append.c)
+- [Insert at first](https://github.com/Zannatul-Naim/Data-Structure/blob/main/Linked%20List/insertFirst.c)
+- [Deleting last element](https://github.com/Zannatul-Naim/Data-Structure/blob/main/Linked%20List/deleteLast.c)
