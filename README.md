@@ -12,6 +12,10 @@
 - [Insert an element to a unsorted array in any position](https://github.com/Zannatul-Naim/Data-Structure/blob/main/Array/insert_2.c)
 - [Delete an existing element from an array](https://github.com/Zannatul-Naim/Data-Structure/blob/main/Array/delete.c)
 - [Delete middle value of an array](https://github.com/Zannatul-Naim/Data-Structure/blob/main/Array/delete_mid.c)
+- [Merge two Unsorted Array](https://github.com/Zannatul-Naim/Data-Structure/blob/main/Array/merge_1.c)
+- [Merge two sorted Array](https://github.com/Zannatul-Naim/Data-Structure/blob/main/Array/merge_2.c)
+- [Sorting an array using Bubble Sort](https://github.com/Zannatul-Naim/Data-Structure/blob/main/Array/bubble_sort.c)
+- [Searching an element Using Binary Search](https://github.com/Zannatul-Naim/Data-Structure/blob/main/Array/binary_search.c)
 
 
 
