@@ -18,6 +18,10 @@
 - [Searching an element Using Binary Search](https://github.com/Zannatul-Naim/Data-Structure/blob/main/Array/binary_search.c)
 - [Copy 2D array to 1D array](https://github.com/Zannatul-Naim/Data-Structure/blob/main/Array/2D_to_1D.c)
 
+- Matrix
+  - [Addition](https://github.com/Zannatul-Naim/Data-Structure/blob/main/Array/Matrix/addition.c)
+  - [Subtraction](https://github.com/Zannatul-Naim/Data-Structure/blob/main/Array/Matrix/subtraction.c)
+
 
 
 ### Linked List
