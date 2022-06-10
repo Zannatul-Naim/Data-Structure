@@ -14,6 +14,16 @@ node * getNode() {
     return temp;
 }
 
+int getCurrentSize() {
+    node * temp = head;
+    int count = 0;
+    while(temp != NULL) {
+        count++;
+        temp = temp -> next;
+    }
+    return count;
+}
+
 void insert(int item) {
     node * temp = getNode();
 
@@ -31,20 +41,27 @@ void insert(int item) {
 }
 
 void delete_nth_node(int pos) {
-    if(pos == 0 && head != NULL) {
+    if(head == NULL) {
+        printf("Nothing to delete!\n");
+    }
+    else if(pos == 1) {
         head = head -> next;
+    }
+    else if(pos <= 0 || pos > getCurrentSize()){
+        printf("enter a valid position greater than zero! and less then the list size.\n");
     }
     else {
         node * curr_node = head;
-        node * prev;
+        node * prev = curr_node;
         while(--pos) {
             prev = curr_node;
             curr_node = curr_node -> next;
         }
         int deleted = curr_node -> data;
-        printf("%d node deleted...\n", deleted);
+        printf("%dth node deleted...\n", deleted);
         prev -> next = curr_node -> next;
     }
+    
 }
 
 void show() {
@@ -57,15 +74,6 @@ void show() {
     printf("\n");
 }
 
-int getCurrentSize() {
-    node * temp = head;
-    int count = 0;
-    while(temp != NULL) {
-        count++;
-        temp = temp -> next;
-    }
-    return count;
-}
 
 int main() 
 {
@@ -77,7 +85,7 @@ int main()
     size = getCurrentSize();
     printf("Current size: %d\n", size);
 
-    delete_nth_node(5);
+    delete_nth_node(11);
     show();
 
     size = getCurrentSize();
