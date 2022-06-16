@@ -1,6 +1,7 @@
 #include<stdio.h>
 #include<stdlib.h>
 
+
 struct Node {
     int data;
     struct Node* next;
@@ -14,22 +15,28 @@ void insertFirst(int data) {
 
     newNode -> data = data;
     newNode -> prev = NULL;
-    newNode -> next = head;
 
-    if(head != NULL) head -> prev = newNode;
-    head = newNode;
+    if(head == NULL) {
+        head = tail = newNode;
+        tail->next = NULL;
+    }
+    else {
+        newNode->next = head;
+        head->prev = newNode;
+        head = newNode;
+    }
+
 
 }
 
 void display() {
-    node * temp;
 
+    node * temp;
     temp = head;
 
     printf("Printing forward...\n");
     while(temp != NULL) {
         printf("%d ", temp->data);
-        tail = temp;
         temp = temp->next;
     }
     printf("\n");
