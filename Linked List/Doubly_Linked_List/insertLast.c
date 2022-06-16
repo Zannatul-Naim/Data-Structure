@@ -1,7 +1,6 @@
 #include<stdio.h>
 #include<stdlib.h>
 
-
 struct Node {
     int data;
     struct Node* next;
@@ -9,18 +8,6 @@ struct Node {
 } *head, *tail;
 
 typedef struct Node node;
-
-void insertFirst(int data) {
-    node *newNode = (node*) (malloc(sizeof(node)));
-
-    newNode -> data = data;
-    newNode -> prev = NULL;
-    newNode -> next = head;
-
-    if(head != NULL) head -> prev = newNode;
-    head = newNode;
-
-}
 
 void insertLast(int item) {
     node * newNode;
@@ -30,30 +17,26 @@ void insertLast(int item) {
     newNode -> next = NULL;
 
     if(head == NULL) {
-        head = newNode;
+        head = tail = newNode;
         head -> prev = NULL;
     }
     else {
-        node *temp;
-        temp = head;
 
-        while(temp -> next != NULL) temp = temp -> next;
-
-        temp -> next = newNode;
-        newNode -> prev = temp;
+        tail->next = newNode;
+        newNode->prev = tail;
+        tail = newNode;
 
     }
 }
 
 void display() {
+    
     node * temp;
 
     temp = head;
-
     printf("Printing forward...\n");
     while(temp != NULL) {
         printf("%d ", temp->data);
-        tail = temp;
         temp = temp->next;
     }
     printf("\n");
