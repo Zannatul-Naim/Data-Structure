@@ -26,12 +26,17 @@
 
 ### Linked List
 
-- [Linked List traversing](https://github.com/Zannatul-Naim/Data-Structure/blob/main/Linked%20List/traversing.c)
-- [Inserting at last](https://github.com/Zannatul-Naim/Data-Structure/blob/main/Linked%20List/append.c)
-- [Insert at first](https://github.com/Zannatul-Naim/Data-Structure/blob/main/Linked%20List/insertFirst.c)
-- [Insert at Kth position](https://github.com/Zannatul-Naim/Data-Structure/blob/main/Linked%20List/insert_kth_position.c)
-- [Deleting last element](https://github.com/Zannatul-Naim/Data-Structure/blob/main/Linked%20List/deleteLast.c)
-- [Deleting first element](https://github.com/Zannatul-Naim/Data-Structure/blob/main/Linked%20List/deleteFirst.c)
+- Singly Linked List
+  - [Linked List traversing](https://github.com/Zannatul-Naim/Data-Structure/blob/main/Linked%20List/traversing.c)
+  - [Inserting at last](https://github.com/Zannatul-Naim/Data-Structure/blob/main/Linked%20List/append.c)
+  - [Insert at first](https://github.com/Zannatul-Naim/Data-Structure/blob/main/Linked%20List/insertFirst.c)
+  - [Insert at Kth position](https://github.com/Zannatul-Naim/Data-Structure/blob/main/Linked%20List/insert_kth_position.c)
+  - [Deleting last element](https://github.com/Zannatul-Naim/Data-Structure/blob/main/Linked%20List/deleteLast.c)
+  - [Deleting first element](https://github.com/Zannatul-Naim/Data-Structure/blob/main/Linked%20List/deleteFirst.c)
+  - [Deleting specific Data](https://github.com/Zannatul-Naim/Data-Structure/blob/main/Linked%20List/Singly_Linked_List/delete_a_data.c)
+  - [Deletig Nth node](https://github.com/Zannatul-Naim/Data-Structure/blob/main/Linked%20List/Singly_Linked_List/delete_nth_node.c)
+
+
 
 
 
