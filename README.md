@@ -37,7 +37,11 @@
   - [Deletig Nth node](https://github.com/Zannatul-Naim/Data-Structure/blob/main/Linked%20List/Singly_Linked_List/delete_nth_node.c)
 
 
-
+- Doubly Linked List
+  - [Create Doubly Linked List](https://github.com/Zannatul-Naim/Data-Structure/blob/main/Linked%20List/Doubly_Linked_List/create_doubly_list.c)
+  - [Insert at beginning](https://github.com/Zannatul-Naim/Data-Structure/blob/main/Linked%20List/Doubly_Linked_List/insertFirst.c)
+  - [Insert at end](https://github.com/Zannatul-Naim/Data-Structure/blob/main/Linked%20List/Doubly_Linked_List/insertLast.c)
+  - [Insert at Nth node](https://github.com/Zannatul-Naim/Data-Structure/blob/main/Linked%20List/Doubly_Linked_List/insert_at_nth_position.c)
 
 
 ### Stack
