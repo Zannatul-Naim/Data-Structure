@@ -47,3 +47,7 @@
 ### Stack
 
 - [Basic stack operations program](https://github.com/Zannatul-Naim/Data-Structure/blob/main/Stack/stack.c) implemented using array in C
+
+
+### Queue
+  - [Basic Queue Implementation Using Array](https://github.com/Zannatul-Naim/Data-Structure/blob/main/Queue/array_queue.c)
