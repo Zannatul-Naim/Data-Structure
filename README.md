@@ -47,6 +47,8 @@
 ### Stack
 
 - [Basic stack operations program](https://github.com/Zannatul-Naim/Data-Structure/blob/main/Stack/stack.c) implemented using array in C
+- [Stack using Linked List](https://github.com/Zannatul-Naim/Data-Structure/blob/main/Stack/linked_list_stack.c)
+- [Postfix Equatio Evaluation](https://github.com/Zannatul-Naim/Data-Structure/blob/main/Stack/postFixEvaluation.cpp)
 
 
 ### Queue
