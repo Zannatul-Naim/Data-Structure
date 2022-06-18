@@ -48,7 +48,9 @@
 
 - [Basic stack operations program](https://github.com/Zannatul-Naim/Data-Structure/blob/main/Stack/stack.c) implemented using array in C
 - [Stack using Linked List](https://github.com/Zannatul-Naim/Data-Structure/blob/main/Stack/linked_list_stack.c)
-- [Postfix Equatio Evaluation](https://github.com/Zannatul-Naim/Data-Structure/blob/main/Stack/postFixEvaluation.cpp)
+- [Infix to Postfix Conversion](https://github.com/Zannatul-Naim/Data-Structure/blob/main/Stack/infixToPostFix.cpp)
+- [Postfix Expression Evaluation](https://github.com/Zannatul-Naim/Data-Structure/blob/main/Stack/postFixEvaluation.cpp)
+- [Infix Expression Evaluation](https://github.com/Zannatul-Naim/Data-Structure/blob/main/Stack/infixEvaluation.cpp)
 
 
 ### Queue
