@@ -51,3 +51,4 @@
 
 ### Queue
   - [Basic Queue Implementation Using Array](https://github.com/Zannatul-Naim/Data-Structure/blob/main/Queue/array_queue.c)
+  - [Queue using Linked List](https://github.com/Zannatul-Naim/Data-Structure/blob/main/Queue/linked_list_queue.c)
