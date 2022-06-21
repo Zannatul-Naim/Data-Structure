@@ -1,6 +1,9 @@
 # Data-Structure
 
-## Reference Book - Data Structure using C by Reema Theraja
+## Reference Book 
+- Data Structure using C by Reema Theraja
+- Data Structure with C by Seymour Lipschutz
+
 
 
 ### Array
