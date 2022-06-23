@@ -63,3 +63,9 @@
   - [Queue using Linked List](https://github.com/Zannatul-Naim/Data-Structure/blob/main/Queue/linked_list_queue.c)
   - [Circular Queue using array](https://github.com/Zannatul-Naim/Data-Structure/blob/main/Queue/circular_array_queue.c)
   - [Circular Queue Using LinkedList](https://github.com/Zannatul-Naim/Data-Structure/blob/main/Queue/circular_linked_queue.c)
+
+
+### Recursion
+  - [Factorial](https://github.com/Zannatul-Naim/Data-Structure/blob/main/Recursion/factorial.c)
+  - [Fibonacci](https://github.com/Zannatul-Naim/Data-Structure/blob/main/Recursion/fibonacci.c)
+  - [Towe of Hanoi](https://github.com/Zannatul-Naim/Data-Structure/blob/main/Recursion/tower_of_hanoi.c)
