@@ -26,6 +26,7 @@
   - [Subtraction](https://github.com/Zannatul-Naim/Data-Structure/blob/main/Array/Matrix/subtraction.c)
   - [Inverse](https://github.com/Zannatul-Naim/Data-Structure/blob/main/Array/Matrix/inverse.c)
   - [Transpose](https://github.com/Zannatul-Naim/Data-Structure/blob/main/Array/Matrix/transpose.c)
+  - [Multiplication](https://github.com/Zannatul-Naim/Data-Structure/blob/main/Array/Matrix/multiplication.c)
 
 
 
