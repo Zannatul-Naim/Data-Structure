@@ -74,3 +74,6 @@
 
 ### Hashing
   - [Simple Hash map table](https://github.com/Zannatul-Naim/Data-Structure/blob/main/Hashing/hash_map_table.c)
+  - [Hashing using Linear Probing](https://github.com/Zannatul-Naim/Data-Structure/blob/main/Hashing/linear_probing.c)
+  - [Hashing using Quadratic Probing](https://github.com/Zannatul-Naim/Data-Structure/blob/main/Hashing/quadratic_probing.c)
+  - [Hashing using separate chaining](https://github.com/Zannatul-Naim/Data-Structure/blob/main/Hashing/separate_chaining.c)
