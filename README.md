@@ -70,3 +70,7 @@
   - [Factorial](https://github.com/Zannatul-Naim/Data-Structure/blob/main/Recursion/factorial.c)
   - [Fibonacci](https://github.com/Zannatul-Naim/Data-Structure/blob/main/Recursion/fibonacci.c)
   - [Towe of Hanoi](https://github.com/Zannatul-Naim/Data-Structure/blob/main/Recursion/tower_of_hanoi.c)
+
+
+### Hashing
+  - [Simple Hash map table](https://github.com/Zannatul-Naim/Data-Structure/blob/main/Hashing/hash_map_table.c)
