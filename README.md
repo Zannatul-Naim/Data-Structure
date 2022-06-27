@@ -78,3 +78,7 @@
   - [Hashing using Quadratic Probing](https://github.com/Zannatul-Naim/Data-Structure/blob/main/Hashing/quadratic_probing.c)
   - [Hashing using separate chaining](https://github.com/Zannatul-Naim/Data-Structure/blob/main/Hashing/separate_chaining.c)
   - [Hashing using Plus-3 Probing](https://github.com/Zannatul-Naim/Data-Structure/blob/main/Hashing/plus_3_probing.c)
+
+### Tree
+  - Binary Tree
+    - [Traversing](https://github.com/Zannatul-Naim/Data-Structure/blob/main/Tree/Binary_Tree/traversing.c)
