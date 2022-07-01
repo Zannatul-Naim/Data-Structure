@@ -143,6 +143,10 @@ public class BinaryTree {
         System.out.print(root.value + " ");
         inorder(root.right);
     }
+    
+    public void deleteBinaryTree() {
+        root = null;
+    }
 
     public static void main(String[] args) {
         BinaryTree bTree = new BinaryTree();
@@ -172,5 +176,9 @@ public class BinaryTree {
         bTree.inorder(bTree.root);
         System.out.println();
         // System.out.println(bTree.root.value);
+        bTree.deleteBinaryTree();
+        bTree.deleteNodeValue(26);
+
+        System.out.println("Tree was Deleted!");
     }
 }
