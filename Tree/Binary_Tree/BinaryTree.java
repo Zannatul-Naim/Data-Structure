@@ -66,6 +66,75 @@ public class BinaryTree {
 
     }
 
+    public Node getDeepestNode() {
+
+        Node currNode = root;
+
+        Queue<Node> queue = new LinkedList<Node>();
+        queue.add(root);
+        while (!queue.isEmpty()) {
+            currNode = queue.remove();
+            if (currNode.left != null)
+                queue.add(currNode.left);
+            if (currNode.right != null)
+                queue.add(currNode.right);
+        }
+        return currNode;
+    }
+
+    public void deleteDeepestNode() {
+        if (root == null) {
+            System.out.println("Tree is empty!");
+            return;
+        } else {
+            Node currNode, prevNode;
+            currNode = prevNode = null;
+            Queue<Node> queue = new LinkedList<Node>();
+            queue.add(root);
+            while (!queue.isEmpty()) {
+                prevNode = currNode;
+                currNode = queue.remove();
+                if(currNode.left == null) {
+                    prevNode.right = null;
+                    return;
+                }
+                else if(currNode.left == null) {
+                    currNode.left = null;
+                    return;
+                }
+                queue.add(currNode.left);
+                queue.add(currNode.right);
+            }
+        }
+    }
+
+    public void deleteNodeValue(int value) {
+        if (root == null) {
+            System.out.println("Tree is empty");
+            return;
+        } else {
+            Queue<Node> queue = new LinkedList<Node>();
+            queue.add(root);
+
+            while (!queue.isEmpty()) {
+                Node currNode = queue.remove();
+                if (currNode.value == value) {
+                    System.out.println(currNode.value + " Deleted");
+                    currNode.value = getDeepestNode().value;
+                    deleteDeepestNode();
+                    break;
+                } else {
+                    if (currNode.left != null) {
+                        queue.add(currNode.left);
+                    }
+                    if (currNode.right != null) {
+                        queue.add(currNode.right);
+                    }
+                }
+            }
+        }
+    }
+
     public void inorder(Node root) {
         if (root == null)
             return;
@@ -84,6 +153,7 @@ public class BinaryTree {
         bTree.insert(27);
         bTree.insert(28);
         bTree.insert(29);
+        // System.out.println(bTree.root.value);
 
         System.out.print("Inorder : ");
         bTree.inorder(bTree.root);
@@ -91,9 +161,16 @@ public class BinaryTree {
 
         int value = 26;
         boolean s_value = bTree.search(value);
-        if(s_value == true)
+        if (s_value == true)
             System.out.println(value + " Found! in the Tree");
-        else 
+        else
             System.out.println(value + " Not found in the Tree");
+
+    
+        bTree.deleteNodeValue(25);
+        System.out.print("Inorder Traversing : ");
+        bTree.inorder(bTree.root);
+        System.out.println();
+        // System.out.println(bTree.root.value);
     }
 }
