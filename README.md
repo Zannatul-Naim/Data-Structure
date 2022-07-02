@@ -82,3 +82,4 @@
 ### Tree
   - Binary Tree
     - [Traversing](https://github.com/Zannatul-Naim/Data-Structure/blob/main/Tree/Binary_Tree/traversing.c)
+    - [Implementation in java](https://github.com/Zannatul-Naim/Data-Structure/blob/main/Tree/Binary_Tree/BinaryTree.java) creating, inserting, searching
