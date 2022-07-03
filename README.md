@@ -30,6 +30,7 @@
 
 ### Sorting
   - [Insertion Sort](https://github.com/Zannatul-Naim/Data-Structure/blob/main/Sorting/insertion_sort.c)
+  - [Bubble Sort](https://github.com/Zannatul-Naim/Data-Structure/blob/main/Sorting/bubble_sort.c)
 
 ### Linked List
 
