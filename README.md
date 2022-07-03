@@ -28,7 +28,8 @@
   - [Transpose](https://github.com/Zannatul-Naim/Data-Structure/blob/main/Array/Matrix/transpose.c)
   - [Multiplication](https://github.com/Zannatul-Naim/Data-Structure/blob/main/Array/Matrix/multiplication.c)
 
-
+### Sorting
+  - [Insertion Sort](https://github.com/Zannatul-Naim/Data-Structure/blob/main/Sorting/insertion_sort.c)
 
 ### Linked List
 
