@@ -27,8 +27,13 @@
   - [Inverse](https://github.com/Zannatul-Naim/Data-Structure/blob/main/Array/Matrix/inverse.c)
   - [Transpose](https://github.com/Zannatul-Naim/Data-Structure/blob/main/Array/Matrix/transpose.c)
   - [Multiplication](https://github.com/Zannatul-Naim/Data-Structure/blob/main/Array/Matrix/multiplication.c)
+  
+  
 ### Searching
   - [Linear Search](https://github.com/Zannatul-Naim/Data-Structure/blob/main/Searching/linear_search.c)
+  - [Binary Search](https://github.com/Zannatul-Naim/Data-Structure/blob/main/Searching/binary_search.c)
+  
+  
 ### Sorting
   - [Insertion Sort](https://github.com/Zannatul-Naim/Data-Structure/blob/main/Sorting/insertion_sort.c)
   - [Bubble Sort](https://github.com/Zannatul-Naim/Data-Structure/blob/main/Sorting/bubble_sort.c)
