@@ -21,12 +21,11 @@ int binarySearch(int arr[], int l, int r, int item)
   
 int main(void)
 {
-    // array needs to be sorted to impliment binary search
     int arr[] = {10, 20, 30, 40, 50, 60, 70, 80};
-    int n = sizeof(arr) / sizeof(arr[0]);
+    int size = sizeof(arr) / sizeof(arr[0]);
     int item = 30;
     
-    int position = binarySearch(arr, 0, n - 1, item);
+    int position = binarySearch(arr, 0, size - 1, item);
     
     if(position == -1)
         printf("%d Not Found",item);
