@@ -90,6 +90,10 @@
   - [Hashing using Plus-3 Probing](https://github.com/Zannatul-Naim/Data-Structure/blob/main/Hashing/plus_3_probing.c)
 
 ### Tree
-  - Binary Tree
+  - [Binary Tree](https://github.com/Zannatul-Naim/Data-Structure/tree/main/Tree/Binary_Tree)
     - [Traversing](https://github.com/Zannatul-Naim/Data-Structure/blob/main/Tree/Binary_Tree/traversing.c)
     - [Implementation in java](https://github.com/Zannatul-Naim/Data-Structure/blob/main/Tree/Binary_Tree/BinaryTree.java) creating, inserting, searching
+    
+  - [Binary Search Tree](https://github.com/Zannatul-Naim/Data-Structure/tree/main/Tree/BinarySearchTree)
+    - [Insertion in a BST](https://github.com/Zannatul-Naim/Data-Structure/blob/main/Tree/BinarySearchTree/bst_inserting.cpp)
+  
