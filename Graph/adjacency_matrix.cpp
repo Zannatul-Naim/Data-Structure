@@ -2,6 +2,8 @@
 
 using namespace std;
 
+// Undirected Graph
+
 int main() {
     
     int vertex;
@@ -18,7 +20,8 @@ int main() {
             adjacencyMatrix[i][j] = 0;
         }
     }
-
+    
+    // Enter edges for Undirected Graph
     cout << "Enter edges : \n";
     for(int i = 0; i < edges; i++) {
         int u, v;
@@ -29,7 +32,7 @@ int main() {
         }
         else {
         adjacencyMatrix[u][v] = 1;
-        adjacencyMatrix[v][u] = 1;
+        adjacencyMatrix[v][u] = 1;  // skip this line for directed graph
         }
     }
 
