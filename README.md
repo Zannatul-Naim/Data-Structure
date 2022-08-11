@@ -21,7 +21,7 @@
 - [Searching an element Using Binary Search](https://github.com/Zannatul-Naim/Data-Structure/blob/main/Array/binary_search.c)
 - [Copy 2D array to 1D array](https://github.com/Zannatul-Naim/Data-Structure/blob/main/Array/2D_to_1D.c)
 
-- Matrix
+- [Matrix](https://github.com/Zannatul-Naim/Data-Structure/tree/main/Array/Matrix)
   - [Addition](https://github.com/Zannatul-Naim/Data-Structure/blob/main/Array/Matrix/addition.c)
   - [Subtraction](https://github.com/Zannatul-Naim/Data-Structure/blob/main/Array/Matrix/subtraction.c)
   - [Inverse](https://github.com/Zannatul-Naim/Data-Structure/blob/main/Array/Matrix/inverse.c)
@@ -40,7 +40,7 @@
 
 ### Linked List
 
-- Singly Linked List
+- [Singly Linked List](https://github.com/Zannatul-Naim/Data-Structure/tree/main/Linked%20List/Singly_Linked_List)
   - [Linked List traversing](https://github.com/Zannatul-Naim/Data-Structure/blob/main/Linked%20List/traversing.c)
   - [Inserting at last](https://github.com/Zannatul-Naim/Data-Structure/blob/main/Linked%20List/append.c)
   - [Insert at first](https://github.com/Zannatul-Naim/Data-Structure/blob/main/Linked%20List/insertFirst.c)
@@ -51,17 +51,16 @@
   - [Deletig Nth node](https://github.com/Zannatul-Naim/Data-Structure/blob/main/Linked%20List/Singly_Linked_List/delete_nth_node.c)
 
 
-- Doubly Linked List
+- [Doubly Linked List](https://github.com/Zannatul-Naim/Data-Structure/tree/main/Linked%20List/Doubly_Linked_List)
   - [Create Doubly Linked List](https://github.com/Zannatul-Naim/Data-Structure/blob/main/Linked%20List/Doubly_Linked_List/create_doubly_list.c)
   - [Insert at beginning](https://github.com/Zannatul-Naim/Data-Structure/blob/main/Linked%20List/Doubly_Linked_List/insertFirst.c)
   - [Insert at end](https://github.com/Zannatul-Naim/Data-Structure/blob/main/Linked%20List/Doubly_Linked_List/insertLast.c)
   - [Insert at Nth node](https://github.com/Zannatul-Naim/Data-Structure/blob/main/Linked%20List/Doubly_Linked_List/insert_at_nth_position.c)
 
-- Circular Linked List
+- [Circular Linked List](https://github.com/Zannatul-Naim/Data-Structure/tree/main/Linked%20List/Circular_Linked_List)
   - [Insert at First](https://github.com/Zannatul-Naim/Data-Structure/blob/main/Linked%20List/Circular_Linked_List/insertBeg.c)
 
 ### Stack
-
 - [Basic stack operations program](https://github.com/Zannatul-Naim/Data-Structure/blob/main/Stack/stack.c) implemented using array in C
 - [Stack using Linked List](https://github.com/Zannatul-Naim/Data-Structure/blob/main/Stack/linked_list_stack.c)
 - [Infix to Postfix Conversion](https://github.com/Zannatul-Naim/Data-Structure/blob/main/Stack/infixToPostFix.cpp)
@@ -108,7 +107,7 @@
   - [Adjacency List Representation in C](https://github.com/Zannatul-Naim/Data-Structure/blob/main/Graph/adjacency_list.c)
   - [Floyd Warshall's Algorithm](https://github.com/Zannatul-Naim/Data-Structure/blob/main/Graph/Floyd_Warshall.cpp)
   - .
-  - #### [Java Implementation](https://github.com/Zannatul-Naim/Data-Structure/tree/main/Graph/Java-Implementation)
+  - [Java Implementation](https://github.com/Zannatul-Naim/Data-Structure/tree/main/Graph/Java-Implementation)
       - [Simple Graph](https://github.com/Zannatul-Naim/Data-Structure/blob/main/Graph/Java-Implementation/Graph.java)
       - [Breadth First Search](https://github.com/Zannatul-Naim/Data-Structure/blob/main/Graph/Java-Implementation/BFS)
       - [Depth First Search](https://github.com/Zannatul-Naim/Data-Structure/blob/main/Graph/Java-Implementation/DFS.java)
