@@ -81,7 +81,6 @@
   - [Fibonacci](https://github.com/Zannatul-Naim/Data-Structure/blob/main/Recursion/fibonacci.c)
   - [Towe of Hanoi](https://github.com/Zannatul-Naim/Data-Structure/blob/main/Recursion/tower_of_hanoi.c)
 
-
 ### Hashing
   - [Simple Hash map table](https://github.com/Zannatul-Naim/Data-Structure/blob/main/Hashing/hash_map_table.c)
   - [Hashing using Linear Probing](https://github.com/Zannatul-Naim/Data-Structure/blob/main/Hashing/linear_probing.c)
@@ -103,3 +102,14 @@
   - [Heap implementation (insertion, deletion)](https://github.com/Zannatul-Naim/Data-Structure/blob/main/Heap/insertion_deletion.cpp)
   - [Heapify Algorithm](https://github.com/Zannatul-Naim/Data-Structure/blob/main/Heap/insertion_deletion.cpp)
   
+### Graph
+  - [Adjacency Matrix Representation](https://github.com/Zannatul-Naim/Data-Structure/blob/main/Graph/adjacency_matrix.cpp)
+  - [Adjacency List Representation in C++](https://github.com/Zannatul-Naim/Data-Structure/blob/main/Graph/adjacency_list.cpp)
+  - [Adjacency List Representation in C](https://github.com/Zannatul-Naim/Data-Structure/blob/main/Graph/adjacency_list.c)
+  - [Floyd Warshall's Algorithm](https://github.com/Zannatul-Naim/Data-Structure/blob/main/Graph/Floyd_Warshall.cpp)
+  - .
+  - #### [Java Implementation](https://github.com/Zannatul-Naim/Data-Structure/tree/main/Graph/Java-Implementation)
+      - [Simple Graph](https://github.com/Zannatul-Naim/Data-Structure/blob/main/Graph/Java-Implementation/Graph.java)
+      - [Breadth First Search](https://github.com/Zannatul-Naim/Data-Structure/blob/main/Graph/Java-Implementation/BFS)
+      - [Depth First Search](https://github.com/Zannatul-Naim/Data-Structure/blob/main/Graph/Java-Implementation/DFS.java)
+
