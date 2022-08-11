@@ -4,6 +4,20 @@
 - Data Structure using C by Reema Theraja
 - Data Structure with C by Seymour Lipschutz
 
+#### Topics will covered ...
+
+| Serial | Topic |
+| :-----| :-----:|
+|1| Array|
+|2| Linked List|
+|3| Stack|
+|4| Queue|
+|5| Recursion|
+|6| Hashing|
+|7| Sorting|
+|8| Searching|
+|9| Tree|
+|10| Graph|
 
 
 ### Array
