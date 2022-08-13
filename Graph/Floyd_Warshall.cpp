@@ -5,6 +5,7 @@ using namespace std;
 int adjMatrix[20][20];
 int powMatrix[4][20][20];
 int strongMatrix[20][20];
+int pathMatrix[20][20];
 
 /*
 0 0 0 1
@@ -50,11 +51,15 @@ bool is_strongly_connected(int n) {
         for(int j = 0; j < n; j++) {
             strongMatrix[i][j] = 0;
             strongMatrix[i][j] = powMatrix[0][i][j] + powMatrix[1][i][j] + powMatrix[2][i][j] + powMatrix[3][i][j];
-            if(strongMatrix[i][j] == 0) cnt++; 
+            if(strongMatrix[i][j] == 0) {
+                cnt++;
+                pathMatrix[i][j] = 0;
+            }
+            else pathMatrix[i][j] = 1;
         }
     }
-    if(cnt > 0) return true;
-    else return false;
+    if(cnt > 0) return false;
+    else return true;
 }
 
 void printMatrix(int n) {
@@ -100,6 +105,17 @@ int main() {
     cout << endl << endl;
     if(is_strongly_connected(n)) cout << "Strongly Connected!" << endl;
     else cout << "Not Strongly Connected!" << endl;
-    
+
+    cout << endl << endl;
+
+    // Printing path matrix 
+    cout << "Path Matrix : \n";
+    for(int i = 0; i < n; i++) {
+        for(int j = 0; j < n; j++) {
+            cout << pathMatrix[i][j] << " ";
+        }
+        cout << endl;
+    }
+
     return 0;
 }
