@@ -55,6 +55,7 @@
 ### Linked List
 
 - [Singly Linked List](https://github.com/Zannatul-Naim/Data-Structure/tree/main/Linked%20List/Singly_Linked_List)
+  - [Singly Linked List - All](https://github.com/Zannatul-Naim/Data-Structure/blob/main/Linked%20List/Singly_Linked_List/singly_linked_list.cpp)
   - [Linked List traversing](https://github.com/Zannatul-Naim/Data-Structure/blob/main/Linked%20List/traversing.c)
   - [Inserting at last](https://github.com/Zannatul-Naim/Data-Structure/blob/main/Linked%20List/append.c)
   - [Insert at first](https://github.com/Zannatul-Naim/Data-Structure/blob/main/Linked%20List/insertFirst.c)
