@@ -7,7 +7,7 @@ struct Node {  // Node
 };
 
 typedef Node node;
-node* head = NULL;
+node *head = NULL, *tail = NULL;
 
 node* createNode(int data) {  // create node 
     node* temp = new Node;
@@ -18,11 +18,13 @@ node* createNode(int data) {  // create node
 
 void create_list(int a[], int size) {  // create the list
     for(int i = 0; i < size; i++) {
-        if(head == NULL) head = createNode(a[i]);
+        if(head == NULL) {
+          head = createNode(a[i]);
+          tail = head;
+        }
         else {
-            node *temp = head;
-            while(temp -> next != NULL) temp = temp->next;
-            temp->next = createNode(a[i]);
+            tail->next = createNode(a[i]);
+            tail = tail->next;
         }
     }
 }
