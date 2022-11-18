@@ -109,6 +109,8 @@
     - [Level Order Traversing in a Binary Tree](https://github.com/Zannatul-Naim/Data-Structure/blob/main/Tree/Binary_Tree/bTree_level_order_traversing.cpp)
     - [Binary Tree Using C++](https://github.com/Zannatul-Naim/Data-Structure/blob/main/Tree/Binary_Tree/binaryTree.cpp) (Traversing Preorder, Postorder, Inorder)
     - [Iterative Pre Order Traversing](https://github.com/Zannatul-Naim/Data-Structure/blob/main/Tree/Binary_Tree/iterative_preOrder.cpp)
+    - [Iterative In Order Traversing](https://github.com/Zannatul-Naim/Data-Structure/blob/main/Tree/Binary_Tree/iterative_inorder.cpp)
+    - [Iterative Post Order Traversing](https://github.com/Zannatul-Naim/Data-Structure/blob/main/Tree/Binary_Tree/iterative_postorder.cpp)
     
   - [Binary Search Tree](https://github.com/Zannatul-Naim/Data-Structure/tree/main/Tree/BinarySearchTree)
     - [Insertion in a BST](https://github.com/Zannatul-Naim/Data-Structure/blob/main/Tree/BinarySearchTree/bst_inserting.cpp)
