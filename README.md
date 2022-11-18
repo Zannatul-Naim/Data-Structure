@@ -111,6 +111,7 @@
     
   - [Binary Search Tree](https://github.com/Zannatul-Naim/Data-Structure/tree/main/Tree/BinarySearchTree)
     - [Insertion in a BST](https://github.com/Zannatul-Naim/Data-Structure/blob/main/Tree/BinarySearchTree/bst_inserting.cpp)
+    - [Insert unique element and print 2D tree](https://github.com/Zannatul-Naim/Data-Structure/blob/main/Tree/BinarySearchTree/bst_print2D_unique_element.cpp)
 
 ### Heap
   - [Heap implementation (insertion, deletion)](https://github.com/Zannatul-Naim/Data-Structure/blob/main/Heap/insertion_deletion.cpp)
