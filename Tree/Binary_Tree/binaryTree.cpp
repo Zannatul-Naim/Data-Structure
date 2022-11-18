@@ -73,6 +73,15 @@ void postOrder(Node *root)
     cout << root->data << " ";
 }
 
+void inOrder(Node *root)
+{
+    if (!root) return;
+    preOrder(root->left);
+    cout << root->data << " ";
+    preOrder(root->right);
+    
+}
+
 int main()
 {
     root = makeTree();
@@ -87,6 +96,9 @@ int main()
     cout << endl;
     cout << "Post Order : ";
     postOrder(root);
+    cout << "In Order : ";
+    inOrder(root);
+    
     cout << endl;
 
     return 0;
