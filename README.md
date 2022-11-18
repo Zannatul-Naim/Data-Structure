@@ -104,10 +104,10 @@
 
 ### Tree
   - [Binary Tree](https://github.com/Zannatul-Naim/Data-Structure/tree/main/Tree/Binary_Tree)
-    - [Traversing](https://github.com/Zannatul-Naim/Data-Structure/blob/main/Tree/Binary_Tree/traversing.c)
+    - [First Tree Program (Creating)](https://github.com/Zannatul-Naim/Data-Structure/blob/main/Tree/Binary_Tree/implementation.c)
     - [Implementation in java](https://github.com/Zannatul-Naim/Data-Structure/blob/main/Tree/Binary_Tree/BinaryTree.java) creating, inserting, searching
     - [Level Order Traversing in a Binary Tree](https://github.com/Zannatul-Naim/Data-Structure/blob/main/Tree/Binary_Tree/bTree_level_order_traversing.cpp)
-    - [Binary Tree Using C++](https://github.com/Zannatul-Naim/Data-Structure/blob/main/Tree/Binary_Tree/binaryTree.cpp)
+    - [Binary Tree Using C++](https://github.com/Zannatul-Naim/Data-Structure/blob/main/Tree/Binary_Tree/binaryTree.cpp) (Traversing Preorder, Postorder, Inorder)
     
   - [Binary Search Tree](https://github.com/Zannatul-Naim/Data-Structure/tree/main/Tree/BinarySearchTree)
     - [Insertion in a BST](https://github.com/Zannatul-Naim/Data-Structure/blob/main/Tree/BinarySearchTree/bst_inserting.cpp)
