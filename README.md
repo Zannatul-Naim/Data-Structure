@@ -4,20 +4,20 @@
 - Data Structure using C by Reema Theraja
 - Data Structure with C by Seymour Lipschutz
 
-#### Topics will covered ...
+#### Topics covered
 
 | Serial | Topic |
 | :-----| :-----:|
-|1| Array|
-|2| Linked List|
-|3| Stack|
-|4| Queue|
-|5| Recursion|
-|6| Hashing|
-|7| Sorting|
-|8| Searching|
-|9| Tree|
-|10| Graph|
+|1| [Array](#array)|
+|2| [Linked List](#linkedlist)|
+|3| [Stack](#stack)|
+|4| [Queue](#queue)|
+|5| [Recursion](#recursion)|
+|6| [Hashing](#hashing)|
+|7| [Sorting](#sorting)|
+|8| [Searching](#searching)|
+|9| [Tree](#tree)|
+|10| [Graph](#graph)|
 
 
 ### Array
@@ -52,7 +52,7 @@
   - [Insertion Sort](https://github.com/Zannatul-Naim/Data-Structure/blob/main/Sorting/insertion_sort.c)
   - [Bubble Sort](https://github.com/Zannatul-Naim/Data-Structure/blob/main/Sorting/bubble_sort.c)
 
-### Linked List
+### LinkedList
 
 - [Singly Linked List](https://github.com/Zannatul-Naim/Data-Structure/tree/main/Linked%20List/Singly_Linked_List)
   - [Singly Linked List - All](https://github.com/Zannatul-Naim/Data-Structure/blob/main/Linked%20List/Singly_Linked_List/singly_linked_list.cpp)
