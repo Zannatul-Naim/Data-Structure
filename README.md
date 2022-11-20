@@ -123,10 +123,13 @@
   
 ### Graph
   - [Adjacency Matrix Representation](https://github.com/Zannatul-Naim/Data-Structure/blob/main/Graph/adjacency_matrix.cpp)
+  - [Path Matrix - Find connectivity](https://github.com/Zannatul-Naim/Data-Structure/blob/main/Graph/path_matrix.cpp)
+  - [Power Matrix](https://github.com/Zannatul-Naim/Data-Structure/blob/main/Graph/power_matrix.cpp)
   - [Adjacency List Representation in C++](https://github.com/Zannatul-Naim/Data-Structure/blob/main/Graph/adjacency_list.cpp)
   - [Adjacency List Representation in C](https://github.com/Zannatul-Naim/Data-Structure/blob/main/Graph/adjacency_list.c)
   - [Floyd Warshall's Algorithm](https://github.com/Zannatul-Naim/Data-Structure/blob/main/Graph/Floyd_Warshall.cpp)
-  - [BFS using c++](https://github.com/Zannatul-Naim/Data-Structure/blob/main/Graph/bfs.cpp)
+  - [BFS C++](https://github.com/Zannatul-Naim/Data-Structure/blob/main/Graph/bfs.cpp)
+  - [DFS C++](https://github.com/Zannatul-Naim/Data-Structure/blob/main/Graph/dfs.cpp)
   - [Java Implementation](https://github.com/Zannatul-Naim/Data-Structure/tree/main/Graph/Java-Implementation)
       - [Simple Graph](https://github.com/Zannatul-Naim/Data-Structure/blob/main/Graph/Java-Implementation/Graph.java)
       - [Breadth First Search](https://github.com/Zannatul-Naim/Data-Structure/blob/main/Graph/Java-Implementation/BFS)
