@@ -111,7 +111,6 @@ int main() {
         cin >> x;
         if(x == -1) break;
         insert(x);
-//         inorder(root);
         printTree(root, 10);
         cout << endl;
     }
@@ -121,7 +120,6 @@ int main() {
     cout << "Enter a value to delete : ";
     int x;
     cin >> x;
-
     root = deleteNodeValue(root, x);
     printTree(root, SPACE);
 
