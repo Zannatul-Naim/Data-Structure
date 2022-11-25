@@ -125,6 +125,7 @@
   - [Adjacency Matrix Representation](https://github.com/Zannatul-Naim/Data-Structure/blob/main/Graph/adjacency_matrix.cpp)
   - [Path Matrix - Find connectivity](https://github.com/Zannatul-Naim/Data-Structure/blob/main/Graph/path_matrix.cpp)
   - [Power Matrix](https://github.com/Zannatul-Naim/Data-Structure/blob/main/Graph/power_matrix.cpp)
+  - [LinkedList Representation of graph with BFS and DFS](https://github.com/Zannatul-Naim/Data-Structure/blob/main/Graph/linked_list_representation_of_graph_with_bfs_dfs.cpp)
   - [Adjacency List Representation in C++](https://github.com/Zannatul-Naim/Data-Structure/blob/main/Graph/adjacency_list.cpp)
   - [Adjacency List Representation in C](https://github.com/Zannatul-Naim/Data-Structure/blob/main/Graph/adjacency_list.c)
   - [shortest path matrix (weighted graph) warshall](https://github.com/Zannatul-Naim/Data-Structure/blob/main/Graph/shortest_path_matrix.cpp)
