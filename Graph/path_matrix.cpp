@@ -75,7 +75,8 @@ int main() {
     for(int i = 1; i <= m; i++) {
         for(int j = 1; j <= m; j++) {
             for(int k = 1; k <= m; k++) {
-                Br[j][k] = powMatrix[i][j][k];  
+                Br[j][k] += powMatrix[i][j][k];
+                // Br[i][j] += powMatrix[k][i][j];
             }   
         }
     }
