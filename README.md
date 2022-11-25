@@ -127,7 +127,7 @@
   - [Power Matrix](https://github.com/Zannatul-Naim/Data-Structure/blob/main/Graph/power_matrix.cpp)
   - [Adjacency List Representation in C++](https://github.com/Zannatul-Naim/Data-Structure/blob/main/Graph/adjacency_list.cpp)
   - [Adjacency List Representation in C](https://github.com/Zannatul-Naim/Data-Structure/blob/main/Graph/adjacency_list.c)
-  - [Floyd Warshall's Algorithm](https://github.com/Zannatul-Naim/Data-Structure/blob/main/Graph/Floyd_Warshall.cpp)
+  - [shortest path matrix (weighted graph) warshall](https://github.com/Zannatul-Naim/Data-Structure/blob/main/Graph/shortest_path_matrix.cpp)
   - [BFS C++](https://github.com/Zannatul-Naim/Data-Structure/blob/main/Graph/bfs.cpp)
   - [DFS C++](https://github.com/Zannatul-Naim/Data-Structure/blob/main/Graph/dfs.cpp)
   - [Java Implementation](https://github.com/Zannatul-Naim/Data-Structure/tree/main/Graph/Java-Implementation)
